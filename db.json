@@ -1,0 +1,317 @@
+{
+  "admins": [
+    {
+      "nome": "Massimo",
+      "cognome": "Durante",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Admin",
+      "id": 1
+    },
+    {
+      "nome": "Michele",
+      "cognome": "De Gennaro",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Admin",
+      "id": 2
+    }
+  ],
+  "mentors": [
+    {
+      "nome": "Mario",
+      "cognome": "Catelli",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentor",
+      "id": 1
+    },
+    {
+      "nome": "Giuseppe",
+      "cognome": "Celentano",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentor",
+      "id": 2
+    },
+    {
+      "nome": "Andrea",
+      "cognome": "Sanulli",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentor",
+      "id": 3
+    },
+    {
+      "nome": "Martin",
+      "cognome": "Pescatore",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentor",
+      "id": 4
+    }
+  ],
+  "mentees": [
+    {
+      "nome": "Gabriele",
+      "cognome": "Cosenza",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 1,
+      "id": 1
+    },
+    {
+      "nome": "Carlo",
+      "cognome": "Lombardi",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 1,
+      "id": 2
+    },
+    {
+      "nome": "Giacomo",
+      "cognome": "Leopardi",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 1,
+      "id": 3
+    },
+    {
+      "nome": "Umberto",
+      "cognome": "Eco",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 2,
+      "id": 4
+    },
+    {
+      "nome": "Mimmo",
+      "cognome": "Palladino",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 2,
+      "id": 5
+    },
+    {
+      "nome": "Bruno",
+      "cognome": "Vespa",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 2,
+      "id": 6
+    },
+    {
+      "nome": "Jessica",
+      "cognome": "Fletcher",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 3,
+      "id": 7
+    },
+    {
+      "nome": "Francesco",
+      "cognome": "Totti",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 3,
+      "id": 8
+    },
+    {
+      "nome": "Chiara",
+      "cognome": "Squaglia",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 3,
+      "id": 9
+    },
+    {
+      "nome": "Guido",
+      "cognome": "Di Rado",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 3,
+      "id": 10
+    },
+    {
+      "nome": "Assunata",
+      "cognome": "Di Benedetto",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 3,
+      "id": 11
+    },
+    {
+      "nome": "Camilla",
+      "cognome": "Conte",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 4,
+      "id": 12
+    },
+    {
+      "nome": "Fillippa",
+      "cognome": "Lienz",
+      "email": "email@bcSoft.net",
+      "tipoUtente": "Mentee",
+      "mentorId": 4,
+      "id": 13
+    }
+  ],
+  "tasks": [
+    {
+      "descrizione": "Fornire API. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+      "gruppo": "Junior",
+      "ambito": "Tecnologie",
+      "area": "Informatica",
+      "categoria": "Web",
+      "target": "Target",
+      "id": 1
+    },
+    {
+      "descrizione": "Realizzare App. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+      "gruppo": "Senior",
+      "ambito": "Tecnologie",
+      "area": "Informatica",
+      "categoria": "Web",
+      "target": "Target",
+      "id": 2
+    },
+    {
+      "descrizione": "Realizzare Sito. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+      "gruppo": "Senior",
+      "ambito": "Tecnologie",
+      "area": "Informatica",
+      "categoria": "Web",
+      "target": "Target",
+      "id": 3
+    },
+    {
+      "descrizione": "Superviosione Proggetto. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+      "gruppo": "Senior",
+      "ambito": "Tecnologie",
+      "area": "Informatica",
+      "categoria": "Web",
+      "target": "Target",
+      "id": 4
+    },
+    {
+      "descrizione": "Vendere Prodotti . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+      "gruppo": "Junior",
+      "ambito": "Marketing",
+      "area": "Vendite",
+      "categoria": "Shop",
+      "target": "Target",
+      "id": 5
+    },
+    {
+      "descrizione": "Fare Fotocopie . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+      "gruppo": "Junior",
+      "ambito": "Menagment",
+      "area": "Amministrazione",
+      "categoria": "Amministrazione",
+      "target": "Target",
+      "id": 6
+    }
+  ],
+  "svolto": [
+    {
+      "menteeId": 1,
+      "taskId": 1,
+      "id": 1
+    },
+    {
+      "menteeId": 5,
+      "taskId": 1,
+      "id": 2
+    },
+    {
+      "menteeId": 13,
+      "taskId": 1,
+      "id": 3
+    },
+    {
+      "menteeId": 6,
+      "taskId": 1,
+      "id": 4
+    },
+    {
+      "menteeId": 3,
+      "taskId": 2,
+      "id": 5
+    },
+    {
+      "menteeId": 8,
+      "taskId": 2,
+      "id": 6
+    },
+    {
+      "menteeId": 10,
+      "taskId": 2,
+      "id": 7
+    },
+    {
+      "menteeId": 2,
+      "taskId": 3,
+      "id": 8
+    },
+    {
+      "menteeId": 7,
+      "taskId": 4,
+      "id": 9
+    },
+    {
+      "menteeId": 12,
+      "taskId": 5,
+      "id": 10
+    },
+    {
+      "menteeId": 4,
+      "taskId": 5,
+      "id": 11
+    },
+    {
+      "menteeId": 9,
+      "taskId": 6,
+      "id": 12
+    },
+    {
+      "menteeId": 11,
+      "taskId": 6,
+      "id": 13
+    },
+    {
+      "menteeId": 3,
+      "taskId": 1,
+      "id": 14
+    },
+    {
+      "menteeId": 3,
+      "taskId": 6,
+      "id": 15
+    },
+    {
+      "menteeId": 4,
+      "taskId": 4,
+      "id": 16
+    },
+    {
+      "menteeId": 7,
+      "taskId": 3,
+      "id": 17
+    },
+    {
+      "menteeId": 8,
+      "taskId": 3,
+      "id": 18
+    },
+    {
+      "menteeId": 13,
+      "taskId": 4,
+      "id": 19
+    },
+    {
+      "menteeId": 13,
+      "taskId": 6,
+      "id": 20
+    },
+    {
+      "menteeId": 12,
+      "taskId": 6,
+      "id": 21
+    }
+  ]
+}
