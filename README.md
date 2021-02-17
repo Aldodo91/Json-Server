@@ -8,7 +8,7 @@ Possiamo notare che vi sono tre tipologie di attori coinvolti `Mentor` `Mentee` 
 
 <center>
 
-![](/home/aldo/Documenti/UML/dia.png)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/dia.png)
 
 </center>
 
@@ -52,7 +52,7 @@ L'Applicazione che si sta sviluppando è costituita da uno `Stack Screen` di pag
 
 <center>
 
-![](/home/aldo/Documenti/UML/Main.jpg)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/StarUml.jpg)
 
 </center>
 
@@ -66,7 +66,7 @@ Questi radio button sono fondamentali perché lo stesso utente ( individuato con
 
 <center>
 
-![](/home/aldo/Documenti/UML/Schermata%20del%202021-02-15%2011-17-51.png)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/login.png)
 
 </center>
 
@@ -90,7 +90,7 @@ Si è voluto realizzare un componente separato per renderizzare la UI perché in
 
 <center>
 
-![](/home/aldo/Documenti/UML/Schermata%20del%202021-02-15%2011-20-10.png)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/admin.png)
 
 </center>
 
@@ -156,7 +156,7 @@ Come nella pagina precedente, tali dati vengo utilizzati per aggiornare lo stato
 
 <center>
 
-![](/home/aldo/Documenti/UML/Schermata%20del%202021-02-15%2011-20-19.png)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/mentor.png)
 
 </center>
 
@@ -218,7 +218,7 @@ In seguito a tale pagina ne è prevista infine un altra che mostrerà nel dettag
 
 <center>
 
-![](/home/aldo/Documenti/UML/Schermata%20del%202021-02-15%2011-20-35.png)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/mentee.png)
 
 </center>
 
@@ -287,15 +287,13 @@ Gli oggetti `colleghi` e `task` vengono passati al componente `<RenderTask>` per
 
 Si è voluto arricchire questa pagina, mostrando nome, cognome e mail di tutti i mentee che collaborano sullo stesso obiettivo, anche se rendono conto del proprio operato a diversi mentor, per favorire la comunicazione "orizzontale" tra mentee.
 
-
-
 > Sono del parere che lo scambio di conoscenze ed esperienze acquisite sul campo, sia un momento di crescita formativa e personale estremamente importante. 
 
 <center>
 
-![](/home/aldo/Documenti/UML/Schermata%20del%202021-02-15%2011-20-55.png)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/task1.png)
 
-![](/home/aldo/Documenti/UML/Schermata%20del%202021-02-15%2011-21-17.png)
+![](/home/ub/Scrivania/Universita/Lavoro/BCSOFT/Json-Server/assets/task2.png)
 
 </center>
 
